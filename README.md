@@ -1,16 +1,14 @@
-## Hi there 👋
+# Howdy 👋 This is Mandy!
 
-<!--
-**Mengyu1013/Mengyu1013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Check out my work and projects here:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📝 **Published Paper**: [Research on the Influencing Factors of Automobile Price](https://drpress.org/ojs/index.php/HSET/article/view/17770)
+- 🎓 **Education**: 
+  - [2024.9-2025.12] MS in Business Analytics, [Santa Clara University](https://www.scu.edu/)
+  - [2020.9-2024.6] BS in Applied Statistics, [Hubei University of Education](https://www.hue.edu.cn/14841/list.htm)
+- 💼 **Professional Experience**:
+  - [2023.11-2024.6]Data Analyst Intern, [Wuhan Changjiang Optoelectronics CO., LTD](http://www.whcjgd.com)
+  - [2023.6-2023.8]Data Analyst Intern, [Hubei Huazhong Changjiang Optoelectronics Technology CO., LTD](http://cana.net.cn/gy)
+- 🌟 **Interests**: Data Analytics / Machine Learning / Statistical Models
+- ⚙ **Technical Skills**: Python / SQL / R / Excel / Power BI / Tableau
+- 📫 Feel free to connect with me via GitHub!
