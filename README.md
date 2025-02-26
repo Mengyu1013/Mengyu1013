@@ -7,6 +7,7 @@ Check out my work and projects here:
   - [2024.9-2025.12] MS in Business Analytics, [Santa Clara University](https://www.scu.edu/)
   - [2020.9-2024.6] BS in Applied Statistics, [Hubei University of Education](https://www.hue.edu.cn/14841/list.htm)
 - 💼 **Professional Experience**:
+  - [2025.1-present] Dara Scientist Practicum, [DigitalOcean](https://www.digitalocean.com/).
   - [2023.11-2024.6]Data Analyst Intern, [Wuhan Changjiang Optoelectronics CO., LTD](http://www.whcjgd.com)
   - [2023.6-2023.8]Data Analyst Intern, [Hubei Huazhong Changjiang Optoelectronics Technology CO., LTD](http://cana.net.cn/gy)
 - 🌟 **Interests**: Data Analytics / Machine Learning / Statistical Models
